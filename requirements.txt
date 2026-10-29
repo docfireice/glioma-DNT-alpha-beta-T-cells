@@ -1,0 +1,16 @@
+# Python
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+lifelines==0.30.3
+matplotlib==3.11.2
+seaborn==0.13.2
+scanpy==1.12.4
+anndata==0.13.4
+pillow>=10.0
+
+# R (run 13_gse16011_rma.R separately)
+#   install.packages(c("BiocManager"))
+#   BiocManager::install(c("oligo", "pd.hg.u133.plus.2"))
